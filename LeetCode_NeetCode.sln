@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1299_Replace_Elements_with_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392_Is_Subsequence", "392_Is_Subsequence\392_Is_Subsequence.csproj", "{3FF58EED-7F80-4EE3-AC49-27B33F1EF42D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Two_Sum", "1_Two_Sum\1_Two_Sum.csproj", "{1DE81B7B-5CE7-4820-9FD8-F0A660250B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3FF58EED-7F80-4EE3-AC49-27B33F1EF42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF58EED-7F80-4EE3-AC49-27B33F1EF42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF58EED-7F80-4EE3-AC49-27B33F1EF42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE81B7B-5CE7-4820-9FD8-F0A660250B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE81B7B-5CE7-4820-9FD8-F0A660250B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE81B7B-5CE7-4820-9FD8-F0A660250B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE81B7B-5CE7-4820-9FD8-F0A660250B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
